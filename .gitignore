@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Temporary files
+*.tmp
+*~
+
+# IDE
+.vscode/
+.idea/
