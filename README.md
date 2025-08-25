@@ -8,8 +8,8 @@ Today I Learned(今日学んだこと)の備忘録です。
 
 ## 📊 Stats
 
-- **Total entries:** X
-- **Current streak:** X days
+- **Total entries:** 6
+- **Current streak:** 1 days
 - **Started:** 2025-08-20
 
 ## 🎯 目的
@@ -39,11 +39,15 @@ Today I Learned(今日学んだこと)の備忘録です。
 
 ## 📝 Recent Entries
 
-- 2025-08-20: [AWS RDS基礎](./2025/08/20250820-aws-rds-basics.md)
+- 2025-08-25: [AWS [サービス名]](./2025/08/20250825.md)
+- 2025-08-24: [AWS EC2 EBS](./2025/08/20250824.md)
+- 2025-08-23: [AWS Amazon Lightsail](./2025/08/20250823-.md)
+- 2025-08-22: [AWS EC2 Auto Scaling CloudWatch](./2025/08/20250822.md)
+- 2025-08-21: [AWS S3 IAM](./2025/08/20250821.md)
 
 ## 📚 Latest Resources
 
-- 2025-08-20: [ITインフラ構成の進化と比較](./resources/infrastructure/infrastructure_evolution.md)
+- 2025-08-25: [ITインフラ構成の進化と比較](./resources/infrastructure/infrastructure_evolution.md)
 
 ## 📁 Repository Structure
 
