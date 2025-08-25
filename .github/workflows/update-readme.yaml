@@ -1,0 +1,36 @@
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # 毎日午前9時（日本時間）に実行
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # 全履歴を取得
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: |
+        npm init -y
+        npm install glob fs-extra
+        
+    - name: Update README
+      run: node .github/scripts/update-readme.js
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --staged --quiet || git commit -m "📊 Update TIL stats [skip ci]"
+        git push
