@@ -14,9 +14,9 @@ Today I Learned(今日学んだこと)の備忘録です。
 
 ## ディレクトリ構成
 
-### ``` /2025 ```
+## ``` /2025 ```
+SAA学習記録
 
-- SAA学習記録
 ## 📚 Technical Resources
 体系的にまとめた技術資料・参考文書
 - [Infrastructure](./resources/infrastructure/) - インフラ技術の進化と比較
