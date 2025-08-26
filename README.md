@@ -9,7 +9,7 @@ Today I Learned(今日学んだこと)の備忘録です。
 ## 📊 Stats
 
 - **Total entries:** 6
-- **Current streak:** 1 days
+- **Current streak:** 0 days
 - **Started:** 2025-08-20
 
 ## 🎯 目的
@@ -47,7 +47,7 @@ Today I Learned(今日学んだこと)の備忘録です。
 
 ## 📚 Latest Resources
 
-- 2025-08-25: [ITインフラ構成の進化と比較](./resources/infrastructure/infrastructure_evolution.md)
+- 2025-08-26: [ITインフラ構成の進化と比較](./resources/infrastructure/infrastructure_evolution.md)
 
 ## 📁 Repository Structure
 
