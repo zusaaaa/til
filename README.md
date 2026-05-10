@@ -47,7 +47,7 @@ Today I Learned(今日学んだこと)の備忘録です。
 
 ## 📚 Latest Resources
 
-- 2026-05-09: [ITインフラ構成の進化と比較](./resources/infrastructure/infrastructure_evolution.md)
+- 2026-05-10: [ITインフラ構成の進化と比較](./resources/infrastructure/infrastructure_evolution.md)
 
 ## 📁 Repository Structure
 
